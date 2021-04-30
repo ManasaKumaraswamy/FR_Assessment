@@ -1,6 +1,6 @@
-FetchRewards Assessment - ManasaKumaraswamy
+# FetchRewards Assessment - ManasaKumaraswamy
 
-- Files
+## - Files
 
 Q1 ERDiagram.docx – consists of the ER diagram for database designed using the Microsoft SQL Server tool
 
@@ -10,7 +10,7 @@ Q3-DataLoadAndDataQualityChecks.ipynb – Python file to load json data, perform
 
 Q3-DatabaseCreationAndDataQualityChecks.sql – SQL script consisting of commands to create the tables and footnotes to adhere to the database relation rules and normalization
 
-- Steps
+## - Steps
 
 1. Analyzed the JSON data given to draw high level database ER model
 2. Performed analysis on Python to explore and normalize the database design
@@ -20,13 +20,13 @@ Q3-DatabaseCreationAndDataQualityChecks.sql – SQL script consisting of command
 5. Composed final email message
 
 
--	Tools used
+## -	Tools used
 
 1. Jupyter Notebook
 2. SSMS
 3. JSON viewer
 
--	References
+## -	References
 
 	-	https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15
 	-	https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
